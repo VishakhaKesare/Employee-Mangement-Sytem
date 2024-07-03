@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ado.net\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|f:\\ado.net\\employeemanagementsystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\salarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\salary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\salary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|F:\\ado.net\\EmployeeManagementSystem\\employeemanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD62C55-8EA8-418E-A4BF-9032A180D43B}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:37:49.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Dashboard.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Dashboard.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:38:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:21:40.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Salary.cs [Design]",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Salary.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:44:49.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Salary.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Salary.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAUwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:41:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAcwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:51:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalaryData.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\SalaryData.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\SalaryData.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\SalaryData.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\SalaryData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:52:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Dashboard.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:09:01.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Salary.Designer.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Salary.Designer.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Salary.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Salary.Designer.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:04:30.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:35:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:20:15.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Form1.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:27:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Form1.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\Form1.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:27:30.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "F:\\ado.net\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.Designer.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAEwAIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:06:41.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
